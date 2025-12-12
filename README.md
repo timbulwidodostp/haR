@@ -1,6 +1,8 @@
 # haR
 Estimate and forecast the HAR (Heterogeneous Autoregressive) model and its extensions Use har (haR) With (In) R Software
 
+https://www.youtube.com/watch?v=3MwqqPGdrq4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
